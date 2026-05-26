@@ -1,0 +1,1817 @@
+=== EMAIL ===
+TO: alice_1779273727@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779273727@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779273727@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779273727@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779273727@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779273727@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779273727@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779273818@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779273818@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779273818@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779273818@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779273818@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779273818@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779273818@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779274222@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779274222@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779274222@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779274222@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779274222@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779274222@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779274222@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: erjonfida5@gmail.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>erjonfida5@gmail.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: erjonfida5@gmail.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779274486@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779274486@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779274486@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779274486@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779274486@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779274486@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779274486@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779274570@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779274570@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779274570@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779274570@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779274570@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779274570@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779274570@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779274723@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779274723@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779274723@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779274723@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779274723@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779274723@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779274723@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779278024@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779278024@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779278024@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779278024@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779278024@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779278024@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779278024@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779278758@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779278758@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779278758@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779278758@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779278758@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779278758@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779278758@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779278824@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779278824@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779278824@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779278824@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779278824@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779278824@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779278824@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779278894@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779278894@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779278894@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779278894@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779278894@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779278894@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779278894@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779353876@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779353876@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779353876@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779353876@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779353876@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779353876@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779353876@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779714836@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779714836@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779714836@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779714836@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779714836@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779714836@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779714836@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779715171@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779715171@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779715171@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779715171@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779715171@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779715171@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779715171@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779717800@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779717800@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779717800@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>bob_1779717800@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779717800@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779717800@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_B</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: bob_1779717800@example.com
+SUBJECT: Security Alert: Login from Unknown Device
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #ef4444; margin-top: 0;">New Login Detected</h2>
+                <p>We noticed a login to your Legal Assistant account from a device we don't recognize:</p>
+                <table style="width: 100%; margin-top: 15px; margin-bottom: 15px; border-collapse: collapse;">
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; width: 120px; color: #94a3b8; border-bottom: 1px solid rgba(255,255,255,0.05);">IP Address:</td>
+                        <td style="padding: 8px; color: #e2e8f0; border-bottom: 1px solid rgba(255,255,255,0.05);">127.0.0.1</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px; font-weight: bold; color: #94a3b8;">User Agent:</td>
+                        <td style="padding: 8px; color: #e2e8f0; font-size: 13px;">Agent_A</td>
+                    </tr>
+                </table>
+                <p>If this was you, you can safely ignore this email. If you did not log in, please secure your credentials immediately.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system security email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
+=== EMAIL ===
+TO: alice_1779720661@example.com
+SUBJECT: Welcome to Legal Assistant AI!
+CONTENT:
+
+    <html>
+        <body style="font-family: Arial, sans-serif; background-color: #0d0f12; color: #e2e8f0; padding: 20px; margin: 0;">
+            <div style="max-width: 600px; margin: 0 auto; background: #1e293b; padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <h2 style="color: #60a5fa; margin-top: 0;">Account Registered</h2>
+                <p>Welcome to your AI-powered Legal Assistant! Your account associated with <strong>alice_1779720661@example.com</strong> has been successfully registered.</p>
+                <p>You can now log in, upload legal files (bills, transcripts, contracts), and perform isolated semantic searches on them.</p>
+                <br>
+                <p style="font-size: 12px; color: #94a3b8; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">This is an automated system email.</p>
+            </div>
+        </body>
+    </html>
+    
+=============
+
