@@ -1,11 +1,14 @@
-<!-- ================= AUTHENTICATION MODULE ================= -->
-<div class="auth-container">
+<!-- Auth Page -->
+<div class="auth-page">
     <div class="auth-brand-side">
-        <div class="auth-brand-logo">
-            <i class="fa-solid fa-scale-balanced"></i>
-        </div>
-        <div class="auth-brand-text">
-            <h2>Legal Assistant</h2>
+        <div>
+            <div class="auth-brand-logo">
+                <i class="fa-solid fa-scale-balanced"></i>
+            </div>
+            <div class="auth-brand-text">
+                <h2>Your AI-Powered<br/>Legal Workspace</h2>
+                <p>Upload contracts, court transcripts, and legal bills and ask away.</p>
+            </div>
         </div>
         <div class="auth-quote-decor">
             <p class="quote-latin">"Lex semper dabit remedium."</p>
@@ -14,20 +17,19 @@
     </div>
 
     <div class="auth-form-side">
-        <div class="auth-card glass-panel">
+        <div class="auth-card">
             <div class="auth-header">
-                <i class="fa-solid fa-scale-balanced auth-logo mobile-only-logo"></i>
-                <h2>Welcome to the Vault</h2>
-                <p>Enter your credentials to access your secure workspace</p>
+                <i class="fa-solid fa-scale-balanced mobile-only-logo"></i>
+                <h2>Welcome back</h2>
+                <p>Sign in to access your secure workspace</p>
             </div>
 
             <div class="auth-tabs">
-                <button class="auth-tab active" id="tab-login-btn" onclick="showAuthMode('login')">Login</button>
-                <button class="auth-tab" id="tab-register-btn" onclick="showAuthMode('register')">Register</button>
+                <button class="auth-tab active" id="tab-login-btn" onclick="showAuthMode('login')">Sign In</button>
+                <button class="auth-tab" id="tab-register-btn" onclick="showAuthMode('register')">Create Account</button>
             </div>
 
             <form id="auth-form" hx-post="/login" hx-target="body">
-                <!-- Registration Extra Fields (hidden by default) -->
                 <div id="register-fields" style="display: none;">
                     <div class="input-row">
                         <div class="input-group">
@@ -54,7 +56,7 @@
                             </div>
                         </div>
                         <div class="input-group">
-                            <label>Phone Number</label>
+                            <label>Phone</label>
                             <div class="input-with-icon">
                                 <i class="fa-solid fa-phone"></i>
                                 <input type="tel" name="phone_number" placeholder="+1 (555) 019-2834" id="reg-phone"/>
@@ -64,10 +66,10 @@
                 </div>
 
                 <div class="input-group">
-                    <label>Email Address</label>
+                    <label>Email</label>
                     <div class="input-with-icon">
                         <i class="fa-solid fa-envelope"></i>
-                        <input type="email" required name="email" placeholder="attorney@firm.com" id="auth-email"/>
+                        <input type="email" required name="email" placeholder="you@firm.com" id="auth-email"/>
                     </div>
                 </div>
 
@@ -75,7 +77,7 @@
                     <label>Password</label>
                     <div class="input-with-icon">
                         <i class="fa-solid fa-lock"></i>
-                        <input type="password" required name="password" placeholder="Enter password..." minlength="6" id="auth-password"/>
+                        <input type="password" required name="password" placeholder="Enter password" minlength="6" id="auth-password"/>
                     </div>
                 </div>
 
@@ -83,14 +85,14 @@
                     <label>Confirm Password</label>
                     <div class="input-with-icon">
                         <i class="fa-solid fa-lock"></i>
-                        <input type="password" name="confirm_password" placeholder="Retype password..." minlength="6" id="auth-confirm-password"/>
+                        <input type="password" name="confirm_password" placeholder="Retype password" minlength="6" id="auth-confirm-password"/>
                     </div>
                 </div>
 
                 <div id="auth-error-container"></div>
                 <div id="auth-success-container"></div>
 
-                <button type="submit" class="btn btn-primary btn-block" id="auth-submit-btn">Login</button>
+                <button type="submit" class="btn btn-primary btn-block" id="auth-submit-btn">Sign In</button>
             </form>
         </div>
     </div>

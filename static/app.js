@@ -12,7 +12,7 @@ function showAuthMode(mode) {
     const isLogin = mode === 'login';
     isLoginMode = isLogin;
     form.setAttribute('hx-post', isLogin ? '/login' : '/register');
-    document.getElementById('auth-submit-btn').textContent = isLogin ? 'Login' : 'Register';
+    document.getElementById('auth-submit-btn').textContent = isLogin ? 'Sign In' : 'Create Account';
     document.getElementById('register-fields').style.display = isLogin ? 'none' : 'block';
     document.getElementById('reg-confirm-group').style.display = isLogin ? 'none' : 'block';
     document.getElementById('tab-login-btn').classList.toggle('active', isLogin);
@@ -28,13 +28,13 @@ function showAuthMode(mode) {
 
 // Theme Toggle
 function toggleTheme() {
-    const isLight = document.body.classList.toggle('light-theme');
-    localStorage.setItem('theme', isLight ? 'light' : 'dark');
+    const isDark = document.body.classList.toggle('dark-theme');
+    localStorage.setItem('theme', isDark ? 'dark' : 'light');
     const icon = document.getElementById('theme-icon');
-    if (icon) icon.className = isLight ? 'fa-solid fa-moon' : 'fa-solid fa-sun';
+    if (icon) icon.className = isDark ? 'fa-solid fa-sun' : 'fa-solid fa-moon';
 }
 (function() {
-    if (localStorage.getItem('theme') === 'light') document.body.classList.add('light-theme');
+    if (localStorage.getItem('theme') === 'dark') document.body.classList.add('dark-theme');
 })();
 
 // Drag & Drop + File Upload
